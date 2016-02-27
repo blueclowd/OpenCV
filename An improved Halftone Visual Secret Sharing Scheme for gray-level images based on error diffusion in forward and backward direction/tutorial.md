@@ -3,6 +3,7 @@
 #### Author
 - Aman Kamboj
 - D.K.Gupta
+
 #### Visual Secret Sharing
   - An Information hiding scheme since 1995.
   - Use image to protect the secret.
